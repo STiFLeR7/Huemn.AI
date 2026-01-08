@@ -114,7 +114,7 @@ ADAPTATION RULES: ['force_tool_usage']
 * After repeated occurrences, a behavioral rule is introduced
 * Once enforced, the same mistake no longer appears in subsequent runs
 
-This log‑backed evidence demonstrates **measurable improvement over time**, exactly as required by the assignment fileciteturn1file0.
+This log‑backed evidence demonstrates **measurable improvement over time**, exactly as required by the assignment.
 
 ---
 
