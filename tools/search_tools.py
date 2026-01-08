@@ -13,7 +13,7 @@ class SearchTool(BaseTool):
             raise ToolValidationError("missing query")
         if not isinstance(input_data["query"], str):
             raise ToolValidationError("query must be string")
-        if input_data["query" == ""]:
+        if input_data["query"] == "":
             raise ToolValidationError("query is empty")
 
     def execute(self, input_data: Dict[str, Any]) -> Dict[str, Any]:

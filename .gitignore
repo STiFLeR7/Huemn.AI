@@ -1,1 +1,6 @@
 docs/sow.docx
+__init__.py
+.gitignore
+__init__.py/
+__pycache__/
+docs/
